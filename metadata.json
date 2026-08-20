@@ -1,0 +1,8 @@
+{
+  "name": "NOVA",
+  "description": "NOVA - Autonomous Real-time Voice & OS Automation Assistant powered by Gemini Live.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

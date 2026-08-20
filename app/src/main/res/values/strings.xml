@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NOVA</string>
+    <string name="accessibility_service_description">Enables NOVA to automate screen taps, typing, scrolling, and background tasks.</string>
+    <string name="device_admin_description">Allows NOVA to secure and lock the device screen on voice command.</string>
+</resources>
